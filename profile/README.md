@@ -28,6 +28,6 @@ Our mission at Mussnad is to empower businesses and organizations with tailor-ma
 
 ## Get in Touch
 
-Interested in working with us or learning more about what we do? Don't hesitate to reach out! You can contact us via email at [contact@.com](mailto:contact@mussnad.com) or visit our website at [www.mussnad.com](https://www.mussnad.com) for more information.
+Interested in working with us or learning more about what we do? Don't hesitate to reach out! You can contact us via email at [hi@mussnad.com](mailto:hi@mussnad.com) or visit our website at [www.mussnad.com](https://www.mussnad.com) for more information.
 
 Let's innovate together!
