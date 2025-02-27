@@ -1,18 +1,18 @@
-# Moosnad
+# Mussnad
 
-Welcome to Moosnad! We are a dynamic team dedicated to delivering innovative software solutions for modern and emerging tech challenges.
+Welcome to Mussnad! We are a dynamic team that delivers innovative software solutions for modern and emerging tech challenges.
 
 ## About Us
 
-At Moosnad, we thrive on tackling cutting-edge problems and crafting elegant solutions. Our team comprises passionate individuals with diverse backgrounds, united by a common goal: to push the boundaries of technology and make a meaningful impact on the world.
+At Mussnad, we thrive on tackling cutting-edge problems and crafting elegant solutions. Our team comprises passionate individuals with diverse backgrounds, united by a common goal: to push the boundaries of technology and make a meaningful impact on the world.
 
 ## Our Mission
 
-Our mission at Moosnad is to empower businesses and organizations with tailor-made software solutions that drive efficiency, foster growth, and enhance user experiences. We believe in leveraging the latest technologies to solve complex problems and deliver exceptional results.
+Our mission at Mussnad is to empower businesses and organizations with tailor-made software solutions that drive efficiency, foster growth, and enhance user experiences. We believe in leveraging the latest technologies to solve complex problems and deliver exceptional results.
 
 ## What We Do
 
-- **Software Development**: We specialize in developing custom software solutions tailored to meet the unique needs of our clients. From web applications to mobile apps and beyond, we have the expertise to bring your ideas to life.
+- **Software Development**: We specialize in developing custom software solutions tailored to our clients' unique needs. From web applications to mobile apps and beyond, we have the expertise to bring your ideas to life.
 
 - **Consulting Services**: Our team of experts offers strategic consulting services to help businesses navigate the ever-evolving tech landscape. Whether you need guidance on technology adoption, architecture design, or scalability planning, we've got you covered.
 
@@ -28,6 +28,6 @@ Our mission at Moosnad is to empower businesses and organizations with tailor-ma
 
 ## Get in Touch
 
-Interested in working with us or learning more about what we do? Don't hesitate to reach out! You can contact us via email at [contact@moosnad.com](mailto:contact@moosnad.com) or visit our website at [www.moosnad.com](https://www.moosnad.com) for more information.
+Interested in working with us or learning more about what we do? Don't hesitate to reach out! You can contact us via email at [contact@.com](mailto:contact@mussnad.com) or visit our website at [www.mussnad.com](https://www.mussnad.com) for more information.
 
 Let's innovate together!
