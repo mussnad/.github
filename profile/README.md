@@ -1,4 +1,4 @@
-# Mussnad
+# Mussnad Technologies
 
 Welcome to Mussnad! We are a dynamic team that delivers innovative software solutions for modern and emerging tech challenges.
 
